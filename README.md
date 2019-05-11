@@ -42,7 +42,7 @@ Las etiquetas más basicas serán descritas aquí
 
 ## Para qué sirve cada etiqueta?
 
-|Etiqueta|Uso|
+| Etiqueta | Uso |
 |:---|:---|
 | <!DOCTYPE html>  | Indica al navegador que vamos a usar html 5   |
 | <html> | Dentro de esta etiqueta ira todo el contenido html |

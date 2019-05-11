@@ -61,7 +61,7 @@ Dependiendo de el tipo de proyecto a realizar se puede realizar una cierta estru
 <body> 
     <header>
         <div>
-            <img src="Dirección de img" alt="Lodo de App"/>
+            <img src="dir" alt=""/>
         </div>
         <nav>
             <ul>
@@ -79,7 +79,7 @@ Dependiendo de el tipo de proyecto a realizar se puede realizar una cierta estru
     </header>
     <section>
         <h1> Titulo de la <br/> <strong> sección principal </strong> </h1> 
-        <img src="dirección de la img" width="" height="" >
+        <img src="dir" width="" height="" >
     </section>
     <section>
         <h2>Portafolio</h2> 

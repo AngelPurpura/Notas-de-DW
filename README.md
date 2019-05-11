@@ -2,7 +2,7 @@
 
 ## DOM
 
-El DOM modelo de documento que se carga en el navegador web y que representa el documento como un árbol de nodos.
+El DOM es el modelo de documento que se carga en el navegador web y que representa el documento como un árbol de nodos.
 
 #### insertar imagen del tree
 
@@ -51,4 +51,33 @@ Las etiquetas más basicas serán descritas aquí
 | &lt; meta atri=" " &gt; | Aqui especificamos los metadatos |
 | &lt; title &gt; | Aqui ponemos el titulo que se vera en la pestaña del navegador |
 | &lt; body &gt; | Aqui va todo el contenido que se vera dentro del navegador |
+
+### Organización dentro del body
+
+Dependiendo de el tipo de proyecto a realizar se puede realizar una cierta estructura del body, un ejemplo para una pagina tipo portafolio es:
+
+```html
+<body> 
+    <header>
+        <nav>
+            <ul>
+                <li>
+                    <a> Portafolio </a>
+                </li>
+                <li>
+                    <a> Experiencia </a>
+                </li>
+                <li>
+                    <a> Trabajemos juntos </a>
+                </li>
+            </ul>
+        </nav>
+    </header>
+    <section> Sección principal </section>
+    <section> Sección portafolio </section>
+    <section> Sección eventos </section>
+    <section> Sección contacto </section>
+    <footer> footer <footer>
+</body>
+```
 

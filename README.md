@@ -73,9 +73,28 @@ Dependiendo de el tipo de proyecto a realizar se puede realizar una cierta estru
             </ul>
         </nav>
     </header>
-    <section> Sección principal </section>
-    <section> Sección portafolio </section>
-    <section> Sección eventos </section>
+    <section>
+        <h1> Titulo de la <br/> <strong> sección principal </strong> </h1> 
+        <img>
+    </section>
+    <section>
+        <h2>Portafolio</h2> 
+        <article>
+            <h3>  <h3>
+            <p> </p>   
+        </article>    
+    </section>
+    <section>
+        <h2>Eventos</h2>
+        <article>
+            <figure>
+                <img/>
+            </figure>
+            <h3>Subtitulo principal</h3>
+            <p> lorem</p>
+        </article>
+        
+    </section>
     <section> Sección contacto </section>
     <footer> footer <footer>
 </body>

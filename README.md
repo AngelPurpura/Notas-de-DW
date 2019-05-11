@@ -43,9 +43,9 @@ Las etiquetas más basicas serán descritas aquí
 ## Para qué sirve cada etiqueta?
 
 |Etiqueta|Uso|
-|---|---|
+|:---|:---|
 | <!DOCTYPE html>  | Indica al navegador que vamos a usar html 5   |
-| <html> | Dentro de esta etiqueta ira todo el contenido html|
+| <html> | Dentro de esta etiqueta ira todo el contenido html |
 | <head> | Aqui van contenidos los metadatos y información que no sera visible en el cuerpo de la pag |
 | <meta atri="valor"> | Aqui especificamos los metadatos |
 | <title> | Aqui ponemos el titulo que se vera en la pestaña del navegador |

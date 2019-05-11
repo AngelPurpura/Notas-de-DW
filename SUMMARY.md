@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Conceptos básicos de DW](README.md)
 

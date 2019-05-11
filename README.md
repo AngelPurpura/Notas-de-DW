@@ -30,10 +30,11 @@ Las etiquetas más basicas serán descritas aquí
 <!DOCTYPE html>
 <html lang="es">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta http-equiv="X-UA-Compatible" content="ie=edge"/>
     <title>Document</title>
+    <link rel="icon" type="image/png" href="ruta al archivo" />
 </head>
 <body>
 
@@ -59,23 +60,26 @@ Dependiendo de el tipo de proyecto a realizar se puede realizar una cierta estru
 ```html
 <body> 
     <header>
+        <div>
+            <img src="Dirección de img" alt="Lodo de App"/>
+        </div>
         <nav>
             <ul>
                 <li>
-                    <a> Portafolio </a>
+                    <a herf=""> Portafolio </a>
                 </li>
                 <li>
-                    <a> Experiencia </a>
+                    <a herf=""> Experiencia </a>
                 </li>
                 <li>
-                    <a> Trabajemos juntos </a>
+                    <a herf=""> Trabajemos juntos </a>
                 </li>
             </ul>
         </nav>
     </header>
     <section>
         <h1> Titulo de la <br/> <strong> sección principal </strong> </h1> 
-        <img>
+        <img src="dirección de la img" width="" height="" >
     </section>
     <section>
         <h2>Portafolio</h2> 
@@ -88,10 +92,10 @@ Dependiendo de el tipo de proyecto a realizar se puede realizar una cierta estru
         <h2>Eventos</h2>
         <article>
             <figure>
-                <img/>
+                <img src="dir" width="" height=""/>
             </figure>
             <h3>Subtitulo principal</h3>
-            <p> lorem</p>
+            <p> lorem </p>
         </article>
         
     </section>

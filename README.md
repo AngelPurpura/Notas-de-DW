@@ -28,7 +28,7 @@ Las etiquetas más basicas serán descritas aquí
 
 ```markup
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -45,10 +45,10 @@ Las etiquetas más basicas serán descritas aquí
 
 | Etiqueta | Uso |
 | :--- | :--- |
-| &lt;!DOCTYPE html&gt; | Indica al navegador que vamos a usar html 5 |
-| a | Dentro de esta etiqueta ira todo el contenido html |
-| b | Aqui van contenidos los metadatos y información que no sera visible en el cuerpo de la pag |
-| c | Aqui especificamos los metadatos |
-| d | Aqui ponemos el titulo que se vera en la pestaña del navegador |
-| f | Aqui va todo el contenido que se vera dentro del navegador |
+| &lt; !DOCTYPE html &gt; | Indica al navegador que vamos a usar html 5 |
+| &lt; html &gt; | Dentro de esta etiqueta ira todo el contenido html |
+| &lt; head &gt; | Aqui van contenidos los metadatos y información que no sera visible en el cuerpo de la pag |
+| &lt; meta atri=" " &gt; | Aqui especificamos los metadatos |
+| &lt; title &gt; | Aqui ponemos el titulo que se vera en la pestaña del navegador |
+| &lt; body &gt; | Aqui va todo el contenido que se vera dentro del navegador |
 

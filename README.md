@@ -34,7 +34,8 @@ Las etiquetas más basicas serán descritas aquí
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     <meta http-equiv="X-UA-Compatible" content="ie=edge"/>
     <title>Document</title>
-    <link rel="icon" type="image/png" href="ruta al archivo" />
+    <link rel="icon" type="image/png" href="dir" />
+    <link rel="stylesheet" href="dir">
 </head>
 <body>
 
@@ -116,5 +117,8 @@ Dependiendo de el tipo de proyecto a realizar se puede realizar una cierta estru
     <button> Enviar </button>
 </form>
 <section>
-
 ```
+
+### Estilos en html
+
+Aun que no es lo ideal, se pueden incluir estilos en html. Hay 2 formas, usando el atributo style="valor", usando la etiqueta &lt;style&lt; &lt;/style&lt; y dentro se introduce código css. La forma ideal es separar el estilo en otro archivo, con el objetivo de mantener el formato html 'limpio'. esto se hace con la etiqueta &lt;link&lt;

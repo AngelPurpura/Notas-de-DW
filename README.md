@@ -66,13 +66,13 @@ Dependiendo de el tipo de proyecto a realizar se puede realizar una cierta estru
         <nav>
             <ul>
                 <li>
-                    <a herf=""> Portafolio </a>
+                    <a herf="#portafolio"> Portafolio </a>
                 </li>
                 <li>
-                    <a herf=""> Experiencia </a>
+                    <a herf="#experiencia"> Experiencia </a>
                 </li>
                 <li>
-                    <a herf=""> Trabajemos juntos </a>
+                    <a herf="#contacto"> Trabajemos juntos </a>
                 </li>
             </ul>
         </nav>
@@ -81,14 +81,14 @@ Dependiendo de el tipo de proyecto a realizar se puede realizar una cierta estru
         <h1> Titulo de la <br/> <strong> sección principal </strong> </h1> 
         <img src="dir" width="" height="" >
     </section>
-    <section>
+    <section id="portafolio">
         <h2>Portafolio</h2> 
         <article>
             <h3>  <h3>
             <p> </p>   
         </article>    
     </section>
-    <section>
+    <section id="experiencia" >
         <h2>Eventos</h2>
         <article>
             <figure>
@@ -96,11 +96,25 @@ Dependiendo de el tipo de proyecto a realizar se puede realizar una cierta estru
             </figure>
             <h3>Subtitulo principal</h3>
             <p> lorem </p>
-        </article>
-        
+        </article>  
     </section>
+    <!- Aquí va la sección de formulario ->
     <section> Sección contacto </section>
     <footer> footer <footer>
 </body>
 ```
 
+### Formularios en html
+
+```HTML
+<!- Esto va dentro de la sección de contacto ->
+<section id="contacto">
+<form accion="/Suscripción/">
+    <h3>Titulo</h3>
+    <input type="text" placeholder="Déjame tu email" id="email" >
+    <input type="submit" value="Texto del botón" >
+    <button> Enviar </button>
+</form>
+<section>
+
+```

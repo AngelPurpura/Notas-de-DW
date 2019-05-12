@@ -121,4 +121,4 @@ Dependiendo de el tipo de proyecto a realizar se puede realizar una cierta estru
 
 ### Estilos en html
 
-Aun que no es lo ideal, se pueden incluir estilos en html. Hay 2 formas, usando el atributo style="valor", usando la etiqueta &lt;style&lt; &lt;/style&lt; y dentro se introduce código css. La forma ideal es separar el estilo en otro archivo, con el objetivo de mantener el formato html 'limpio'. esto se hace con la etiqueta &lt;link&lt;
+Aun que no es lo ideal, se pueden incluir estilos en html. Hay 2 formas, usando el atributo style="valor", usando la etiqueta &lt;style&gt; &lt;/style&gt; y dentro se introduce código css. La forma ideal es separar el estilo en otro archivo, con el objetivo de mantener el formato html 'limpio'. esto se hace con la etiqueta &lt;link&gt;
